@@ -1,0 +1,22 @@
+Tarefa de Exploração
+
+Páginas web de referência de cada uma das ferramentas que
+foram verificadas:
+
+Python: https://docs.python.org/pt-br/3/library/filesys.html
+
+Git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+
+Code: https://code.visualstudio.com/docs/getstarted/settings
+
+
+identificação da relação entre as páginas de referência e o conteúdo da
+disciplina:
+
+Python: Crianção do backend da aplicação web
+
+Git: Colaboração no código e controle de versões
+
+Vscode: Editor de código
+
+Chrome: Navegador para sua aplicação web 
